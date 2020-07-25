@@ -50,7 +50,7 @@ div .container .chickens {
     margin: 0px;
     
 }
-#chicken {
+#chicken, #beef, #sushi {
     border: 1px solid black;
     margin-bottom: 50px;
     background-color: grey;
@@ -74,7 +74,7 @@ h3 {
         margin-top: 0px; 
         margin-bottom: 0px; 
     }
-        #chicken {
+        #chicken, #beef, #sushi {
             width: 80%;
         }
         #lists {            
